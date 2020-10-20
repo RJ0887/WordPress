@@ -29,7 +29,7 @@ define( 'DB_USER', 'kbsportal' );
 define( 'DB_PASSWORD', 'kbsportal' );
 
 /** MySQL hostname */
-define( 'DB_HOST', 'localhost' );
+define( 'DB_HOST', '172.25.128.46' );
 
 /** Database Charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8' );
